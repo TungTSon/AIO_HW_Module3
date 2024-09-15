@@ -5,3 +5,5 @@
 **Week 2**: KNN, K-Means algorithm
 
 **Week 3**: Decision Tree(Gini, Entropy, etc.)
+
+**Week 4**: Ensemble Learning(Random Forest, AdaBoost, Gradient Boosting)
