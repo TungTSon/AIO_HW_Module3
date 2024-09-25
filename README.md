@@ -7,3 +7,5 @@
 **Week 3**: Decision Tree(Gini, Entropy, etc.)
 
 **Week 4**: Ensemble Learning(Random Forest, AdaBoost, Gradient Boosting)
+
+**Week 5**: XGBoost
